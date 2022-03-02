@@ -1,0 +1,19 @@
+name: Sparovec_PAS
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - bioconductor-deseq2
+  - bioconductor-ihw
+  - r-pheatmap
+  - bioconductor-variancepartition
+  - bioconductor-enhancedvolcano
+  - r-dendextend
+  - r-gplots
+  - bioconductor-topgo
+  - bioconductor-pcaexplorer
+  - bioconductor-clusterprofiler
+  - bioconductor-reactomepa
