@@ -6,6 +6,7 @@ channels:
 dependencies:
   - r-base
   - r-tidyverse
+  - bioconductor-summarizedexperiment 
   - bioconductor-deseq2
   - bioconductor-ihw
   - r-pheatmap
@@ -17,4 +18,3 @@ dependencies:
   - bioconductor-pcaexplorer
   - bioconductor-clusterprofiler
   - bioconductor-reactomepa
-  
