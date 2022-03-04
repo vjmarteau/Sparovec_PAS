@@ -5,8 +5,10 @@ channels:
   - defaults
 dependencies:
   - r-base
+  - r-rmarkdown
   - r-tidyverse
-  - bioconductor-summarizedexperiment 
+  - bioconductor-summarizedexperiment
+  - bioconductor-rtracklayer
   - bioconductor-deseq2
   - bioconductor-ihw
   - r-pheatmap
